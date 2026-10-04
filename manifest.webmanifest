@@ -1,1 +1,1 @@
-{"name":"Arqueiro Viking","short_name":"Arqueiro Viking","start_url":"./?offline=1","display":"standalone","background_color":"#050b08","theme_color":"#08120e","description":"Jogo de pontaria viking com funcionamento offline."}
+{"id":"./","name":"Arqueiro Viking","short_name":"Arqueiro Viking","start_url":"./?pwa=1","scope":"./","display":"standalone","orientation":"portrait","background_color":"#050b08","theme_color":"#08120e","description":"Jogo de pontaria viking instalável e com funcionamento offline.","categories":["games","entertainment"]}
